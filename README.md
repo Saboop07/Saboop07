@@ -1,4 +1,5 @@
-👋 Hi there! I'm Pranjal Saboo, a passionate Computer Engineering student with a strong foundation in programming, machine learning, and web development. I love solving real-world problems through technology and enjoy collaborating on innovative projects.
+👋 Hi there! I'm Pranjal Saboo, 
+a passionate Computer Engineering student with a strong foundation in programming, machine learning, and web development. I love solving real-world problems through technology and enjoy collaborating on innovative projects.
 
 🔧 Technical Skills:
 
